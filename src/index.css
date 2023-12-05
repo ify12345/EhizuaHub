@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.elipse1{
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+    background-color: #B5D2EA;
+    border-radius: 190.5px;
+    filter: blur(70px);
+  }
+.elipse3{
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+    background-color: #ef268940;
+    border-radius: 190.5px;
+    filter: blur(70px);
+  }
+.elipse4{
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+    background-color: #FFECDB;
+    border-radius: 190.5px;
+    filter: blur(70px);
+  }
+.elipse2{
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+    background-color: #ef268940;
+    border-radius: 190.5px;
+    filter: blur(110px);
+  }
